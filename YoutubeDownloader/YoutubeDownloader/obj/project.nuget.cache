@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "oL0tVwUiFc6GYtwDMzopO72p3ZWTKCze6zSMW6IgVWIGv9ab0C9DH9cD/JflJTL+Gtu1zYzHYNqXNKmxsY5T4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C# Projects\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\didic\\.nuget\\packages\\anglesharp\\1.0.1\\anglesharp.1.0.1.nupkg.sha512",
+    "C:\\Users\\didic\\.nuget\\packages\\cliwrap\\3.6.0\\cliwrap.3.6.0.nupkg.sha512",
+    "C:\\Users\\didic\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\didic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\didic\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\didic\\.nuget\\packages\\youtubeexplode\\6.2.6\\youtubeexplode.6.2.6.nupkg.sha512",
+    "C:\\Users\\didic\\.nuget\\packages\\youtubeexplode.converter\\6.2.6\\youtubeexplode.converter.6.2.6.nupkg.sha512",
+    "C:\\Users\\didic\\.nuget\\packages\\youtubeexplode.tobi\\6.2.4\\youtubeexplode.tobi.6.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
