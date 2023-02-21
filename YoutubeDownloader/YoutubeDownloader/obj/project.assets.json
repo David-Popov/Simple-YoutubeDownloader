@@ -351,11 +351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C# Projects\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
+      "projectUniqueName": "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
       "projectName": "YoutubeDownloader",
-      "projectPath": "D:\\Programming\\C# Projects\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
+      "projectPath": "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
       "packagesPath": "C:\\Users\\didic\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C# Projects\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\obj\\",
+      "outputPath": "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

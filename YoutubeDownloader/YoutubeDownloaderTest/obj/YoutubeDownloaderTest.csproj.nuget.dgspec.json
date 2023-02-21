@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj": {}
+    "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloaderTest\\YoutubeDownloaderTest.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj": {
+    "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloaderTest\\YoutubeDownloaderTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
-        "projectName": "YoutubeDownloader",
-        "projectPath": "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
+        "projectUniqueName": "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloaderTest\\YoutubeDownloaderTest.csproj",
+        "projectName": "YoutubeDownloaderTest",
+        "projectPath": "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloaderTest\\YoutubeDownloaderTest.csproj",
         "packagesPath": "C:\\Users\\didic\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\obj\\",
+        "outputPath": "D:\\Programming\\C# Projects\\YoutubeDownloader\\Simple-YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloaderTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,17 +44,25 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "YoutubeExplode": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[6.2.6, )"
+              "version": "[17.1.0, )"
             },
-            "YoutubeExplode.Converter": {
+            "NUnit": {
               "target": "Package",
-              "version": "[6.2.6, )"
+              "version": "[3.13.3, )"
             },
-            "YoutubeExplode.Tobi": {
+            "NUnit.Analyzers": {
               "target": "Package",
-              "version": "[6.2.4, )"
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
